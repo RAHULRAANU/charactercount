@@ -3,3 +3,5 @@ https://delightful-meadow-049e5260f.1.azurestaticapps.net
 ![word-counter](https://user-images.githubusercontent.com/97044498/153371652-3eaeca7f-4d5f-437b-81b1-b05a3c6d55ff.jpg)
 ![SCREEN](https://user-images.githubusercontent.com/97044498/153372170-613066d1-2fd8-45bc-9d44-a3228c236111.png)
 
+  I HAVE USED MICROSOFT AZURE WEB SERVICES(STATIC WEB APP) FOR MY PROJECT,SO THAT ANYONE CAN GET ONLINE AND VISIT IT AND USE IT.
+  
